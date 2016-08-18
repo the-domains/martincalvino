@@ -1,6 +1,6 @@
 name: martincalvino
 favicon: null
-layout_spectrum: 0.9302228495944291
+layout_spectrum: 0.75264
 typography_spectrum: 0.09902597428299487
 cta:
   domain: null
@@ -16,13 +16,9 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.4834376003127545
-  lightness: 0.25129867577925324
+    - '#ffffff'
+  brandStrength: 0
+  lightness: 0
   saturation: 0.0178603557869792
-  rhythmicContrast: 0.954832780873403
+  rhythmicContrast: 0
 purpose: []
